@@ -1,8 +1,0 @@
-[build]
-  command = "npm install --force && vite build"
-  publish = "build"
-
-[build.environment]
-  VITE_APP_EMAILJS_PUBLIC_KEY = "IpVA7ZjQdfovx1Hnz"
-VITE_APP_EMAILJS_TEMPLATE_ID = "template_4ixsu5k"
-VITE_APP_EMAILJS_SERVICE_ID = "service_ixdarig"
