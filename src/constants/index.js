@@ -13,6 +13,7 @@ import {
   starbucks,
   tesla,
   shopify,
+  pcpartpicker,
   inotebook,
   gamearray,
   newsmonkey,
@@ -165,6 +166,27 @@ const testimonials = [
 ];
 
 const projects = [
+   {
+    name: "PcPartPicker",
+    description:
+      "A website that helps users build and compare custom PC configurations by providing compatibility checks, pricing, and component recommendations.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: pcpartpicker,
+    source_code_link: "https://github.com/MSK-009/PcPartPicker",
+  },
   {
     name: "iNotebook",
     description:
