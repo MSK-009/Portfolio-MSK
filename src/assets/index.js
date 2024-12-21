@@ -19,6 +19,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import pcpartpicker from "./pcpartpicker.png";
 import inotebook from "./inotebook.png";
 import gamearray from "./gamearray.png";
 import newsmonkey from "./newsmonkey.png";
@@ -45,6 +46,7 @@ export {
   shopify,
   starbucks,
   tesla,
+  pcpartpicker,
   inotebook,
   gamearray,
   newsmonkey,
